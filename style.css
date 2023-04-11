@@ -7650,7 +7650,7 @@ input[type=checkbox]:checked + .wpcf7-list-item-label:before {
   height: 100%;
   transition: 2s;
   transition-delay: 5.5s;
-  opacity: .3;
+  opacity: .25;
   mix-blend-mode: plus-lighter;
 }
 
@@ -7695,7 +7695,7 @@ input[type=checkbox]:checked + .wpcf7-list-item-label:before {
     opacity: 0;
   }
   50% {
-    opacity: 0.3;
+    opacity: 0.25;
   }
   100% {
     opacity: 0;
